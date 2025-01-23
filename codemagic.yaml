@@ -1,9 +1,3 @@
-#
-//  codemagic.yaml
-//  TriangleApp
-//
-//  Created by naswakhansa on 23/01/25.
-//
 
 workflows:
   ios-project-debug: # workflow ID
