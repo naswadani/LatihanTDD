@@ -49,6 +49,7 @@
 		2A7139352533405300DC8A98 /* TriangleAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TriangleAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2A7139392533405300DC8A98 /* TriangleAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TriangleAppUITests.swift; sourceTree = "<group>"; };
 		2A71393B2533405300DC8A98 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D4080B142D4235140035B543 /* codemagic.yaml */ = {isa = PBXFileReference; lastKnownFileType = text.yaml; path = codemagic.yaml; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +80,7 @@
 		2A71390B2533404B00DC8A98 = {
 			isa = PBXGroup;
 			children = (
+				D4080B142D4235140035B543 /* codemagic.yaml */,
 				2A7139162533404B00DC8A98 /* TriangleApp */,
 				2A71392D2533405300DC8A98 /* TriangleAppTests */,
 				2A7139382533405300DC8A98 /* TriangleAppUITests */,
